@@ -1,0 +1,3 @@
+body {background:lightblue}
+.splashscreen {background:blue;}
+.splashscreen > article {background:blue}
