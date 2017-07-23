@@ -1,6 +1,7 @@
-.splashscreen  {  background:blue;}
+.splashscreen  {  background:  orange;}
 body > header > nav > ul
-{display: flex; justify-content: space-around;}
+{  display: flex; justify-content: space-around;}
 .splashscreen  {  background-image: url (https://coding-days.com/wp-content/uploads/2017/01/homevp1.png);}
-.splashscreen  {  height: 50vh;}
-.splashscreen  {  align-items: center;}
+.splashscreen  {  height: 70vh; display: flex; justify-content: center;  align-items: center;  color: white; font-size: 20px;}
+.safeelements  {  display: flex; align-items:center;}
+.valueproposition > article > h3 {  color: blue;}
